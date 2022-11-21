@@ -7,7 +7,7 @@
 
 int main(int argc, char **argv)
 {
-    char buff[15];
+    char buff[15],otherbuf[10];
     int pass = 0;
 
     printf("\n Enter the password : \n");
